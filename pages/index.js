@@ -8,7 +8,7 @@ export default function Home() {
         <meta name="description" content="Glassmorphic App with Tailwindcss" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1 className="text-green-100">Hello Tailwindcss</h1>
+      <p className="text-green-100">Hello Tailwindcss</p>
     </div>
   );
 }
