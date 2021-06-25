@@ -19,6 +19,7 @@ export default function Home() {
       </div>
       <div className="rounded-full h-40 w-40 absolute top-24 right-1/4 bg-green-600 z-0"></div>
       <div className="rounded-full h-20 w-20 absolute bottom-36 left-96 bg-gradient-to-br from-white to-transparent z-0"></div>
+      <div className="rounded-full h-60 w-60 absolute top-1/2 right-1/4 bg-gradient-to-br from-red-400 to-red-600 z-1"></div>
     </div>
   );
 }
